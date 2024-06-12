@@ -1,0 +1,102 @@
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.csprojResolveAssemblyReference.cache
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.Break.resources
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.CTI.resources
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.Login.resources
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.csproj.GenerateResource.Cache
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.exe.config
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.Properties.Resources.resources
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.exe
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.pdb
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.exe.manifest
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.application
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.exe
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.pdb
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.exe.manifest
+D:\Project Plan\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.exe.config
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\bin\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.Break.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.CTI.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.Login.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.Properties.Resources.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.csproj.GenerateResource.Cache
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200813\obj\Debug\ICICI_CC_CRM.csprojResolveAssemblyReference.cache
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\bin\Debug\ICICI_CC_CRM.exe.config
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\OneCRM.Break.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\OneCRM.CTI.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\OneCRM.Login.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\ICICI_CC_CRM.Properties.Resources.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\ICICI_CC_CRM.csproj.GenerateResource.Cache
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\bin\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\bin\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\bin\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\bin\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_172.24.11.31_Conn_20200820\obj\Debug\ICICI_CC_CRM.csprojResolveAssemblyReference.cache
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\bin\Debug\ICICI_CC_CRM.exe.config
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\OneCRM.Break.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\OneCRM.CTI.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\OneCRM.Login.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\ICICI_CC_CRM.Properties.Resources.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\ICICI_CC_CRM.csproj.GenerateResource.Cache
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\bin\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\bin\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\bin\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\bin\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200824\obj\Debug\ICICI_CC_CRM.csprojResolveAssemblyReference.cache
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\bin\Debug\ICICI_CC_CRM.exe.config
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\bin\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\bin\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\bin\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\bin\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\ICICI_CC_CRM.csprojResolveAssemblyReference.cache
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\OneCRM.Break.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\OneCRM.CTI.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\OneCRM.Login.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\ICICI_CC_CRM.Properties.Resources.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\ICICI_CC_CRM.csproj.GenerateResource.Cache
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card\OneCRM_VishalBeforRemovingSQLConnection_20200826\obj\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\bin\Debug\ICICI_CC_CRM.exe.config
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\bin\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\bin\Debug\ICICI_CC_CRM.application
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\bin\Debug\ICICI_CC_CRM.exe
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\bin\Debug\ICICI_CC_CRM.pdb
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\ICICI_CC_CRM.csprojResolveAssemblyReference.cache
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\OneCRM.AddAlternateNumber.resources
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\OneCRM.Break.resources
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\OneCRM.CTI.resources
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\OneCRM.Login.resources
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\ICICI_CC_CRM.Properties.Resources.resources
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\OneCRM.SearchCustomerDetails.resources
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\ICICI_CC_CRM.csproj.GenerateResource.Cache
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\ICICI_CC_CRM.exe.manifest
+D:\~ CRM\ICICI Credit Card BLR\OneCRM_VishalBeforRemovingSQLConnection_20200829\obj\Debug\ICICI_CC_CRM.application
