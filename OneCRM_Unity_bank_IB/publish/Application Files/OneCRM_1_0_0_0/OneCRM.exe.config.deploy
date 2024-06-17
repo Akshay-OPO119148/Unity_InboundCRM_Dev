@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="DataSource" value="192.168.0.57"/>
+    <add key="InitialCatalog" value="IcegateTest"/>
+    <add key="UserID" value="opodba"/>
+    <add key="Password" value="opo@1234"/>
+
+    <add key="MainURL" value="http://172.24.11.36:8088/DialerAgentDetailsWithOTP_API/DialerAgentDetails_API.aspx?OpoID="/>
+    <add key="PersistSecurityInfo" value="true"/>
+    <add key="RecordingCampaignName" value="IceGate_GGN"/>
+    <add key="UpdateStats" value="900"/>
+    <add key="AutoWrap" value="5"/>
+    <add key="ClientSettingsProvider.ServiceUri" value=""/>
+  </appSettings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+</configuration>
