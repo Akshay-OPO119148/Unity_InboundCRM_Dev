@@ -1,0 +1,13 @@
+Calling API_URL:http://deskuat.unitybank.co.in:7443/v1/system/turing-crm-api/customer-master/get_customer_details_list_by_customer_mobilenumber  Resquest Data:{"mobileNumber":"9099898988"}, Resquest Time:12-06-2024 16:48:21
+Error While calling API_URL:http://deskuat.unitybank.co.in:7443/v1/system/turing-crm-api/customer-master/get_customer_details_list_by_customer_mobilenumber Error:System.Security.Cryptography.CryptographicException: The system cannot find the path specified.
+
+   at System.Security.Cryptography.CryptographicException.ThrowCryptographicException(Int32 hr)
+   at System.Security.Cryptography.X509Certificates.X509Utils._QueryCertFileType(String fileName)
+   at System.Security.Cryptography.X509Certificates.X509Certificate.LoadCertificateFromFile(String fileName, Object password, X509KeyStorageFlags keyStorageFlags)
+   at System.Security.Cryptography.X509Certificates.X509Certificate2..ctor(String fileName, String password)
+   at OneCRM.CTI.<GetResponseFromPostURL>d__367.MoveNext() in C:\OneCRM_Unity_bank_IB\CTI.cs:line 5487
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
+   at OneCRM.CTI.<GetCustomers>d__355.MoveNext() in C:\OneCRM_Unity_bank_IB\CTI.cs:line 4875 Time:12-06-2024 16:48:21

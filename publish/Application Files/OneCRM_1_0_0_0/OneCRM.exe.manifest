@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="OneCRM.exe" version="1.0.0.0" publicKeyToken="912712860dc50995" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="OneCRM" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="OneCRM.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Genesyslab.Core.dll" size="45056">
+      <assemblyIdentity name="Genesyslab.Core" version="7.6.0.9" publicKeyToken="2248646200015F60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>EN0Ro/GiVzB5WWbiLEA6xp9wW0ECv4pBHI9IPujTRGg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Genesyslab.Platform.ApplicationBlocks.SipEndpoint.dll" size="237568">
+      <assemblyIdentity name="Genesyslab.Platform.ApplicationBlocks.SipEndpoint" version="7.6.0.8" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>w0JouOxavGdbb+NhLlhdk7mBtPFGUwkrbyU5cFmmhkM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Genesyslab.Platform.Commons.dll" size="24576">
+      <assemblyIdentity name="Genesyslab.Platform.Commons" version="7.6.0.9" publicKeyToken="2248646200015F60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>pi+fOj8kO5NbNWCuLWS7W2XcG+4boqruN32utcxYGoQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Genesyslab.Platform.Commons.Collections.dll" size="36864">
+      <assemblyIdentity name="Genesyslab.Platform.Commons.Collections" version="7.6.0.6" publicKeyToken="2248646200015F60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>+vZeYOIIlWMW/kdR9XPwsGQE/rnv2DjzkjAgSLjHApA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Genesyslab.Platform.Commons.Connection.dll" size="90112">
+      <assemblyIdentity name="Genesyslab.Platform.Commons.Connection" version="7.6.0.9" publicKeyToken="2248646200015F60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>skbPhVjw920SSQt35ELCyKUJt5UvxOlCYJs/KLcwsyY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Genesyslab.Platform.Commons.Protocols.dll" size="86016">
+      <assemblyIdentity name="Genesyslab.Platform.Commons.Protocols" version="7.6.0.9" publicKeyToken="2248646200015F60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>roBVOlEtGBGe+/Il2E3N9OexXnkejZTe4jAR1fgFy8A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Genesyslab.Platform.Outbound.Protocols.dll" size="212992">
+      <assemblyIdentity name="Genesyslab.Platform.Outbound.Protocols" version="7.6.0.9" publicKeyToken="2248646200015F60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>t0snKYiCCofWpANk7Q9ZpLPwDfF5JhDVPls66aa6GbI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Genesyslab.Platform.Voice.Protocols.dll" size="2437120">
+      <assemblyIdentity name="Genesyslab.Platform.Voice.Protocols" version="7.6.0.11" publicKeyToken="2248646200015F60" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>QK0eL+bxRVFey2M15OQ4reMoJBqMFN+OaqnjpWvd40k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="407776">
+      <assemblyIdentity name="Newtonsoft.Json" version="4.5.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>l3mYrsSGOV6rps5WYWSEJaGhgc4Ywsh8YoivYrh9Xso=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OneCRM.exe" size="939488">
+      <assemblyIdentity name="OneCRM" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>CIu+0CEzGJZkg5jStEKuxPNlWAxXdH6rnd6p8D80z9Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Logo.ico" size="4710">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+0bpaN5KkkFlYnJtHJBGqB1cfs24KLmF70S0Bnqpirs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="OneCRM.exe.config" size="788">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>D1EVTqvrMGNcsM9C9FO7Jo5ilcA/SX0hXOLU+nNZNl4=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ONEPOINTONE\OPO002729" issuerKeyHash="0598404ade564f97c4bd624c4f3c9f03b0e7fc8a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>l5tjMxAgzO2Lg2EpER+Fi4X5CB/ZPPb5U672pXeAnkk=</DigestValue></Reference></SignedInfo><SignatureValue>CJX6uKCItmtaloEwouidTfx9HajdHubY5qhhATS2pPbAGlGnSMqpwWlVdHxsxoub1ZSMuX7XyaZ+5NfiWQV9RerHYLfXY3v+8hRl8qZ8udXStvhoemYQGyar6obGm+c4gvMkBwi+KZKKgtHJaP67TDTLR09xHKa1I9fe+eMe+BA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>n89PN6DFSDCqtwgbYmdVu/DWQWnaKfwvrTLAek2geSwIyplNyK146tEcMbNkLc2HQVhZKAcSMp7+3Jyn7MgYVSrukZ5Peoj1gWv1fU2L6UorIepjWdgLSI40KblaDSFIRgvvhr8rrAffngXyH9PUiHqxYM8tHTOCV5FQU6qVDWU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="499e8077a5f6ae53f9f63cd91f08f9858b851f112961838bedcc201033639b97" Description="" Url=""><as:assemblyIdentity name="OneCRM.exe" version="1.0.0.0" publicKeyToken="912712860dc50995" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ONEPOINTONE\OPO002729</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>sL3hHMoTtt7fAEOMZKaKmwd4pM2U5Q/Atdpkcbhtn4s=</DigestValue></Reference></SignedInfo><SignatureValue>mOK8GFKhTqzDve0lPKZphRpeOxLv1REOIqBFazJduig83A0Zih7h1C8WovWEpKeZY5Fiwfjs1C4n17xObMfgUHIsLNzN6yn/dumUSD04LjeOFa5GB392gmU28wGjaN+ehhHbk2M9qwmDwLJ8z/cjnkYMKbW7pxR2PrMcle0qNwA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>n89PN6DFSDCqtwgbYmdVu/DWQWnaKfwvrTLAek2geSwIyplNyK146tEcMbNkLc2HQVhZKAcSMp7+3Jyn7MgYVSrukZ5Peoj1gWv1fU2L6UorIepjWdgLSI40KblaDSFIRgvvhr8rrAffngXyH9PUiHqxYM8tHTOCV5FQU6qVDWU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQXWdMIzWJTYRGCHlDUNKg4TANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioATwBOAEUAUABPAEkATgBUAE8ATgBFAFwATwBQAE8AMAAwADIANwAyADkwHhcNMjAwNzMwMDk0MzMzWhcNMjEwNzMwMTU0MzMzWjA1MTMwMQYDVQQDHioATwBOAEUAUABPAEkATgBUAE8ATgBFAFwATwBQAE8AMAAwADIANwAyADkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ/PTzegxUgwqrcIG2JnVbvw1kFp2in8L60ywHpNoHksCMqZTciteOrRHDGzZC3Nh0FYWSgHEjKe/tycp+zIGFUq7pGeT3qI9YFr9X1Ni+lKKyHqY1nYC0iONCm5Wg0hSEYL74a/K6wH354F8h/T1Ih6sWDPLR0zgleRUFOqlQ1lAgMBAAEwDQYJKoZIhvcNAQELBQADgYEATYFhiR8gZDun2WQ7uTyaBVtXLzse+2JDkJ2emnR0uI0kVKnwemYccxfZ8jKeDNaNA1OEBWA/EZty0UbojoNYmpdFOSvmHe1q3MvXtl3oQDwq6S/Gfh29C8+8JP/ImpMsduASSdsIX04eLaeaNTM3CThkyz8w6yDUlgsLVen7kp4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

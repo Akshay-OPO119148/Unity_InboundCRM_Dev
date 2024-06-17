@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\OneCRM_Unity_bank_IB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|c:\\onecrm_unity_bank_ib\\searchcustomerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:searchcustomerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\cti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:cti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\cti.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:cti.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\searchcustomerdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:searchcustomerdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\questions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:questions.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\cl_agentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:cl_agentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\break.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:break.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\break.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:break.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\addalternatenumber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:addalternatenumber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\addalternatenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:addalternatenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\addalternatenumber.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:addalternatenumber.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\cti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:cti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\cti.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:cti.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|C:\\OneCRM_Unity_bank_IB\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC67EE47-28B4-4C4D-B1DC-3B4FF697963B}|OneCRM.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchCustomerDetails.Designer.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\SearchCustomerDetails.Designer.cs",
+              "RelativeDocumentMoniker": "SearchCustomerDetails.Designer.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\SearchCustomerDetails.Designer.cs",
+              "RelativeToolTip": "SearchCustomerDetails.Designer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwLkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:48:52.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchCustomerDetails.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\SearchCustomerDetails.cs",
+              "RelativeDocumentMoniker": "SearchCustomerDetails.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\SearchCustomerDetails.cs",
+              "RelativeToolTip": "SearchCustomerDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:48:37.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Questions.Designer.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Questions.Designer.cs",
+              "RelativeDocumentMoniker": "Questions.Designer.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Questions.Designer.cs",
+              "RelativeToolTip": "Questions.Designer.cs",
+              "ViewState": "AQIAAAICAAAAAAAAAAAqwBcCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:48:12.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:40:27.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Connection.cs",
+              "RelativeToolTip": "Connection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:38:53.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:36:21.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Break.Designer.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Break.Designer.cs",
+              "RelativeDocumentMoniker": "Break.Designer.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Break.Designer.cs",
+              "RelativeToolTip": "Break.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwHcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:34:15.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Break.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Break.cs",
+              "RelativeDocumentMoniker": "Break.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Break.cs",
+              "RelativeToolTip": "Break.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAqwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:34:12.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CTI.Designer.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\CTI.Designer.cs",
+              "RelativeDocumentMoniker": "CTI.Designer.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\CTI.Designer.cs",
+              "RelativeToolTip": "CTI.Designer.cs",
+              "ViewState": "AQIAAHUHAAAAAAAAAAAjwIYHAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:31:23.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CTI.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\CTI.cs",
+              "RelativeDocumentMoniker": "CTI.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\CTI.cs",
+              "RelativeToolTip": "CTI.cs",
+              "ViewState": "AQIAALUBAAAAAAAAAAAUwMIBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:15:11.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddAlternateNumber.Designer.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\AddAlternateNumber.Designer.cs",
+              "RelativeDocumentMoniker": "AddAlternateNumber.Designer.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\AddAlternateNumber.Designer.cs",
+              "RelativeToolTip": "AddAlternateNumber.Designer.cs",
+              "ViewState": "AQIAACACAAAAAAAAAAAqwDUCAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:34:26.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CL_AgentDetails.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\CL_AgentDetails.cs",
+              "RelativeDocumentMoniker": "CL_AgentDetails.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\CL_AgentDetails.cs",
+              "RelativeToolTip": "CL_AgentDetails.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAmwIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:31:21.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAI0CAAAAAAAAAAAUwKACAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:16:30.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Questions.cs",
+              "RelativeDocumentMoniker": "Questions.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Questions.cs",
+              "RelativeToolTip": "Questions.cs",
+              "ViewState": "AQIAAO8BAAAAAAAAAAAqwPQBAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:58:16.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddAlternateNumber.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\AddAlternateNumber.cs",
+              "RelativeDocumentMoniker": "AddAlternateNumber.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\AddAlternateNumber.cs",
+              "RelativeToolTip": "AddAlternateNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:33:07.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCEBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:20:51.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddAlternateNumber.resx",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\AddAlternateNumber.resx",
+              "RelativeDocumentMoniker": "AddAlternateNumber.resx",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\AddAlternateNumber.resx",
+              "RelativeToolTip": "AddAlternateNumber.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-13T04:32:56.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CTI.resx",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\CTI.resx",
+              "RelativeDocumentMoniker": "CTI.resx",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\CTI.resx",
+              "RelativeToolTip": "CTI.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-10T07:50:35.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CTI.cs [Design]",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\CTI.cs",
+              "RelativeDocumentMoniker": "CTI.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\CTI.cs [Design]",
+              "RelativeToolTip": "CTI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:30:24.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.resx",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Login.resx",
+              "RelativeDocumentMoniker": "Login.resx",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Login.resx",
+              "RelativeToolTip": "Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-30T07:20:49.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-30T07:17:55.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\OneCRM_Unity_bank_IB\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\OneCRM_Unity_bank_IB\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:16:24.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
