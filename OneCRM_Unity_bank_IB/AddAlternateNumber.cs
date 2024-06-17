@@ -16,7 +16,7 @@ namespace OneCRM
     public partial class AddAlternateNumber : Form
     {
         private void UpdateText(TextBox txtBox, string txt)
-        {
+        { 
             txtBox.Text = txt;
         }
         public AddAlternateNumber()
