@@ -17,8 +17,8 @@ namespace OneCRM
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new Login());
-            Application.Run(new CTI());
+            Application.Run(new Login());
+            //Application.Run(new CTI());
         }
     }
 }
